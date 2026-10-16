@@ -8,3 +8,20 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+
+###> IDE & Editor Configs ###
+# PhpStorm / JetBrains
+/.idea/
+*.iws
+*.iml
+*.ipr
+.idea_modules/
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/
+###< IDE & Editor Configs ###
